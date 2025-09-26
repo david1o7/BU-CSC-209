@@ -1,4 +1,4 @@
-# MY BU-CSC 209 ASSIGNMENT
+# MY BU-COS 209 ASSIGNMENT
 
 ## 1. Array Methods (`Array_Methods/Array_Methods.js`)
 This file demonstrates basic array operations:
